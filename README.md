@@ -35,12 +35,18 @@ Then use command (see prscs_grex_411.sh file in /data/ for example)
 python PTRS_BAYES_CS.py --twas_file $PATH_TO_TWAS_SUM_STAT --outdir $PATH_TO_OUTPUT_DIR --param_a $PARAM_A  --param_b $PARAM_B --param_phi $PARAM_PHI
 
 $PATH_TO_TWAS_SUM_STAT (required): path to file containing TWAS summary stats
+
 $PATH_TO_OUTPUT_DIR (required): Path to folder for output files to be written to
+
 $PARAM_A (optional): manually set value parameter A (default=1)
+
 $PARAM_B (optional): manually set value parameter B (default=0.5)
+
 $PARAM_PHI (optional): manually set value shrinkage parameter phi (default=None; i.e. learns from your data)
 
 
 Output:
+
 Tab-delimited File with no header and 3 columns: 
+
 gene  tissue  weight

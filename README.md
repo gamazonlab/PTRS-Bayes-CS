@@ -8,7 +8,7 @@
 <sup>3</sup>Division of Genetic Medicine, Vanderbilt University Medical Center, Nashville, TN 37232  
 
 <sup>*</sup>Correspondence:  eric.gamazon@vumc.org   
-Tools maintained by:  davewu92@gmail.com  
+Repository maintained by:  davewu92@gmail.com  
 
 ### Abstract
 
